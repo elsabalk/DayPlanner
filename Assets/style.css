@@ -18,6 +18,10 @@ textarea{
   margin: auto;
 }
 
+#saveConfirmation {
+  text-align: center;
+}
+
 .jumbotron {
   text-align: center;
   background-color: transparent;
