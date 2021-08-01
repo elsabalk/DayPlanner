@@ -22,5 +22,5 @@ You will need the following:
 -Added logic for adding scheduled items to local storage
 
 ## Deployed Site
-Please go to the following url to view the deployed Password Generator page
+Please go to the following url to view the deployed Work Day Scheduler page
 -  https://elsabalk.github.io/DayPlanner/
